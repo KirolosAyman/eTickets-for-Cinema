@@ -1,0 +1,36 @@
+﻿namespace project_SW.Data
+{
+    public enum MovieCategory
+    {
+        Action,
+        Adventure,
+        Animation,
+        Biography,
+        Comedy,
+        Crime,
+        Documentary,
+        Drama,
+        Family,
+        Fantasy,
+        History,
+        Horror,
+        Musical,
+        Mystery,
+        Romance,
+        Sport,
+        Thriller,
+        War,
+        Western,
+        Disaster,
+        Epic,
+        Experimental,
+        Gangster,
+        Independent,
+        Noir,
+        Satire,
+        Social,
+        Spy,
+        Supernatural,
+        Zombie
+    }
+}
