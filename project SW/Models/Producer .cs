@@ -9,5 +9,11 @@ namespace project_SW.Models
         public String profilePicture { get; set; }
         public String fullName { get; set; }
         public String Bio { get; set; }
+
+        // Relationships 
+
+        public List<Movie> Movies { get; set; }
+
+
     }
 }

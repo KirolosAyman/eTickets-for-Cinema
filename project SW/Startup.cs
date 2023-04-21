@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.AspNetCore.Identity;
+using project_SW.Data;
 using System.Configuration;
 
-namespace project_SW.Data
+namespace project_SW
 {
     public class Startup
     {
